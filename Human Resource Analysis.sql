@@ -1,3 +1,6 @@
+
+
+
 CREATE DATABASE hr_analytics_project;
 USE hr_analytics_project;
 SHOW TABLES;
@@ -497,6 +500,15 @@ ORDER BY
 
 
 
+
+
+
+
+
+
+
+        
+    
 
 
 
