@@ -12,5 +12,37 @@
 
 <img width="606" alt="bi5" src="https://github.com/user-attachments/assets/3f5acf07-d88b-46e2-a892-df124720239a">
 
-A PowerBI-based HR analytics project focusing on employee demographics, tenure, hiring, and termination trends.
+This repository contains SQL queries and Power BI dashboards for analyzing and visualizing HR data. The analysis is divided into four main sections: HR Summary, Employee Demographics and Distribution, Employee Tenure and Age Analysis, and Hiring and Termination Trends.
+
+Contents
+
+### HR Summary
+- Total Headcount
+- Headcount by Gender
+- Total New Hires in the Last Year
+- Total Terminations in the Last Year
+- Average Tenure
+- Average Age of Employees
+
+### Employee Demographics and Distribution
+- Employee Count by Department
+- Average Age of Employees by Department
+- Gender Distribution within Each Department
+- Employee Distribution by Location
+
+### Employee Tenure and Age Analysis
+- Employee Count by Age Group and Tenure
+- Distribution of Employees' Tenure
+- Average Tenure of Employees by Department and Location
+
+### Hiring and Termination Trends
+- Hiring Trends for the Last 10 Years
+- Company Employee Change Over the Years Based on Hire and Termination
+
+### Termination Analysis
+- Termination Rates by Gender
+- Termination Rates by Age
+- Termination Rates by Department
+- Year-wise Termination Rates
+
 https://app.powerbi.com/groups/55868438-c73f-4b84-8a92-3fc85348dc6f/reports/1285536e-9b71-46d9-bfcf-f2ee83400364/6fae540a700b07e08ee0?experience=power-bi
